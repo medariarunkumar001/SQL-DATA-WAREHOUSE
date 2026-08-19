@@ -1,2 +1,2 @@
 # SQL-DATA-WAREHOUSE
-with crm and erp datasets we create a valuable insights
+building a modern data warehouse with sql server, ETL process, data model.
